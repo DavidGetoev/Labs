@@ -9,7 +9,7 @@ from matplotlib.patches import FancyArrow
 n = 10  # количество мобильных объектов
 num_steps = 100  # увеличенное количество шагов
 area_size = 100  # размер области движения
-prediction_steps = 2  # глубина прогнозирования
+prediction_steps = 3  # глубина прогнозирования
 salesman_speed = 1.2  # скорость коммивояжера (единиц/шаг)
 visit_time = 0  # время посещения точки (в шагах)
 object_speed = 0.7  # скорость движения объектов

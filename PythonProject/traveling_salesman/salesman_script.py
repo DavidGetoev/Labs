@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from scipy.interpolate import interp1d
 from matplotlib.colors import ListedColormap
-from matplotlib.patches import FancyArrow
 
 # Параметры задачи
 n = 10  # количество мобильных объектов
